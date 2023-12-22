@@ -1,5 +1,5 @@
 # PyZMQ notes
-A library of PyZMQ examples 
+A library of PyZMQ v25.1.2 examples 
 
-## TODO
-- Provide examples for all SOCKET types
+## Specs
+- simple server and client
